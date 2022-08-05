@@ -1,8 +1,11 @@
 # <h1 align="center">![Go Finances](.github/logo.svg)</h1>
-
+[PT-BR]
 GoFinances é uma aplicação Mobile/Web com o objetivo de controlar suas finanças (eu preciso muito disso), permitindo que você cadastre entradas, saídas e categorize-as de uma forma organizada!
 
-## 🚀 Tecnologias utilizadas
+[EN]
+GoFinance is a Mobile/Web application with the aim of controlling your finances (I really need it), allowing you to register entries, exits and categorize them in an organized way!
+
+## 🚀 Techs
 
 #### Frontend
 - React
@@ -32,9 +35,9 @@ GoFinances é uma aplicação Mobile/Web com o objetivo de controlar suas finan�
 - Jest
 - Supertest
 
-## 💻 Rodando a aplicação
+## 💻 Executing
 
-#### Requisitos
+#### Requisites
 
 - NodeJS
 - Yarn
